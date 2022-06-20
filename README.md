@@ -6,6 +6,6 @@ Some of ideas:
 2. Автокликер мемов (зачем?)
 3. Shazam
 4. TODO (банально)
-5.
+5. AI
 
 ### How to install?
