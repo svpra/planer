@@ -7,5 +7,6 @@ Some of ideas:
 3. Shazam
 4. TODO (банально)
 5. AI
+6. Приложение для записи разговоров
 
 ### How to install?
