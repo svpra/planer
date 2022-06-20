@@ -5,7 +5,7 @@ Some of ideas:
 1. WMS
 2. Автокликер мемов (зачем?)
 3. Shazam
-4.
+4. TODO (банально)
 5.
 
 ### How to install?
