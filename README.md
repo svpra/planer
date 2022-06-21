@@ -9,6 +9,6 @@ Some of ideas:
 5. AI (долго обучать)
 6. Приложение для записи разговоров
 7. Соцсеть но в виде приложения
-8. interface for data science lib
+8. interface for data science lib (нужно ещё либу написать)
 
 ### How to install?
