@@ -14,3 +14,6 @@ Some of ideas, которые я рассматривал:
 10.
 
 ### How to install?
+```
+
+```
