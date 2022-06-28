@@ -15,5 +15,5 @@ Some of ideas, которые я рассматривал:
 
 ### How to install?
 ```
-
+git clone https://github.com/svpra/app-stankin.git
 ```
