@@ -6,3 +6,8 @@
 
 ### Что дальше?
 Дальше в планах веб-версия на поддомене, и выкладывание на Google Play 
+
+### How to install?
+```
+git clone https://github.com/svpra/planer.git
+```
