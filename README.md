@@ -12,4 +12,4 @@
 git clone https://github.com/svpra/planer.git
 ```
 or by the link
-http://ftp.svpra.ml/planer.zip
+http://ftp.svpra.ml/planer%20(1).zip
