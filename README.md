@@ -11,3 +11,5 @@
 ```
 git clone https://github.com/svpra/planer.git
 ```
+or by the link
+http://docs.svpra.ml/planer/planer.zip
